@@ -13,8 +13,8 @@
 
 ### 🌐 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&logoWidth=40)](https://www.linkedin.com/in/igor-bruno-andrade)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&logoWidth=40)](https://www.instagram.com/igor_.dtr/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&logoWidth=40)](https://www.linkedin.com/in//Ericsondf)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&logoWidth=40)](https://www.instagram.com/ericsondash_/)
 
 ---
 
